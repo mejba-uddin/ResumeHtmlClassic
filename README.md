@@ -1,2 +1,2 @@
 # ResumeHtmlClassic
-Classic Html Resume Tamplate
+Classic Html Resume Tamplate With Tailwind Css
