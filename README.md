@@ -19,4 +19,4 @@ View the live demo of the resume template here:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/mejba-uddin/ResumeHtmlClassic.git]
+   git clone https://github.com/mejba-uddin/ResumeHtmlClassic.git
