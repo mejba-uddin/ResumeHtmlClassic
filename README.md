@@ -13,7 +13,7 @@ This project features a clean, minimal, and responsive HTML resume template. It 
 ## Demo
 
 View the live demo of the resume template here:  
-[jihadkhan.github.io/resumehtmlclassic](https://jihadkhan.github.io/resumehtmlclassic/)
+[https://mejba-uddin.github.io/ResumeHtmlClassic/](https://mejba-uddin.github.io/ResumeHtmlClassic/)
 
 ## Installation
 
